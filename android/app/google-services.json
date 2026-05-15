@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "616760948618",
+    "firebase_url": "https://smartclassroomnoise-d6b01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartclassroomnoise-d6b01",
+    "storage_bucket": "smartclassroomnoise-d6b01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616760948618:android:2245aec95fab4062073a73",
+        "android_client_info": {
+          "package_name": "com.example.smart_classroom_noise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FCiUbwxo8aCjNKGa8-E5bxrcdve4a7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
